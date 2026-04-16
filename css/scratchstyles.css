@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(17, 26, 26);
+    color: white;
+}
+a{
+    color:rgb(186, 219, 244);
+}
+a:visited{
+    color:rgb(186, 219, 244);
+
+}
+.all{
+    position: absolute;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    
+}
+.headcol{
+    color:rgb(100, 164, 213);
+}
+.title{
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+}
+.leftmenu{
+    top:114px;
+    left: 5px;
+    bottom: 465px;
+    width: 150px;
+
+}
+.bigbody{
+    top:114px;
+    bottom: 39px;
+    left: 164px;
+    padding-right: 5px;
+    right: 5px;
+}
+
+.centerbod{
+    text-align: center;
+    padding-right: 155px;
+}
+.video_can{
+    text-align: center;
+    padding-right: 155px;
+}
+img{
+    float: right;
+}
+p{
+    text-indent: 40px;
+}
+.centtext{
+    clear: right;
+}
